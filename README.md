@@ -1,8 +1,7 @@
-# React + Vite
+# This is Simple Blog Website Ui
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Use npm install [to install all the package]
+Use npm run dev [to run a devlopment server]
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Blog Website](https://github.com/GameOfCode64/Blog-Website-UI/assets/131631135/a5151ca6-6303-4b74-87fb-b495f9a6283b)
+![Blog Website (1)](https://github.com/GameOfCode64/Blog-Website-UI/assets/131631135/a1729e19-4020-4cf1-a6c8-3292c5ea2f1b)
